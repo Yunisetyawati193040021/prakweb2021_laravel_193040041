@@ -36,8 +36,8 @@ class post
 
 
 Post::create([
-'title' => 'judul ke tiga',
-'slug' => 'judul-Tiga',
-'excerpt' => 'Lorem ipsum dolor Ke tiga',
-'body' => '<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto corrupti nostrum molestias inventore similique aperiam exercitationem perferendis id non dolorem quidem, repellendus ducimus quos odit, totam reiciendis neque vitae!</p><p> Autem reprehenderit quisquam non repellendus soluta quibusdam magni officiis cumque officia iste beatae quo placeat nobis deserunt rerum nulla,</p><p> eaque ad. Necessitatibus tempora, eaque saepe reiciendis illum accusamus voluptas dolore, eligendi nulla laboriosam alias</p><p> ipsum maiores deleniti ipsam consequatur veniam! Omnis obcaecati quam non commodi. Impedit repellat totam fuga vitae tempora, modi quibusdam labore reiciendis, hic assumenda qui. Quibusdam incidunt doloribus ut, iste laudantium maiores ex molestias quam aliquid quis at.</p>'
-])
+    'title' => 'judul ke tiga',
+    'slug' => 'judul-Tiga',
+    'excerpt' => 'Lorem ipsum dolor Ke tiga',
+    'body' => '<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto corrupti nostrum molestias inventore similique aperiam exercitationem perferendis id non dolorem quidem, repellendus ducimus quos odit, totam reiciendis neque vitae!</p><p> Autem reprehenderit quisquam non repellendus soluta quibusdam magni officiis cumque officia iste beatae quo placeat nobis deserunt rerum nulla,</p><p> eaque ad. Necessitatibus tempora, eaque saepe reiciendis illum accusamus voluptas dolore, eligendi nulla laboriosam alias</p><p> ipsum maiores deleniti ipsam consequatur veniam! Omnis obcaecati quam non commodi. Impedit repellat totam fuga vitae tempora, modi quibusdam labore reiciendis, hic assumenda qui. Quibusdam incidunt doloribus ut, iste laudantium maiores ex molestias quam aliquid quis at.</p>'
+]);
