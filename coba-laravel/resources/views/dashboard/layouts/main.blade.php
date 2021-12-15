@@ -5,7 +5,7 @@
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <meta name="author" content="Muhammad Viqri Febriana">
-   <title>viqri Blog | Dashboard </title>
+   <title>Codebyte6 | Dashboard </title>
 
 
    <!-- Bootstrap core CSS -->
