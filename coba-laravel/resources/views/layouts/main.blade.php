@@ -14,7 +14,7 @@
    <!-- my css -->
    <link rel="stylesheet" href="/css/style.css">
 
-   <title>Viqri Blog | {{ $title }}</title>
+   <title>Codebyte6 | {{ $title }}</title>
 </head>
 
 <body>

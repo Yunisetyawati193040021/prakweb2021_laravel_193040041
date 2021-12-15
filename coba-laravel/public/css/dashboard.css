@@ -98,3 +98,27 @@ body {
   border-color: transparent;
   box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
 }
+
+/*jumbotron*/
+.jumbotron{
+	background-image: url(../img/gambar.jpg);
+	background-size: 600px;
+    height: 540px;
+	text-align: center;
+    position: relative;
+}
+
+.jumbotron .container{
+
+    position: relative;
+}
+
+.jumbotron::after{
+	content: '';
+	display: block;
+	width: 100%;
+	height: 100%;
+	background-image: linear-gradient(to top, rgba(0,0,0,1), rgba(0,0,0,0));
+	position: absolute;
+	bottom: 0;
+}
